@@ -1,0 +1,2 @@
+﻿id	title	price_pc	link	image_link	category_name1	category_name2	category_name3	model_number	shipping	product_flag	naver_category
+1605602946	제네시스 GV80 3.5 터보 (가솔린) 장기렌터카	989000	http://dabillyeo.com/html/dh_product/prod_view/6275	http://gorental.co.kr/_data/file/goodsImages/9d6cc90bcae0f824bd7175dac3639c18_1_2.jpg	신차렌트	국산차	제네시스	3.5 터보	0	렌탈	50007262
